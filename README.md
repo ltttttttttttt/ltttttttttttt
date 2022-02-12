@@ -3,7 +3,7 @@
 
 [![](https://count.getloli.com/get/@ltttttttttttt.github.readme)](https://count.getloli.com/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltttttttttttt&show_icons=true&theme=default&count_private=true&bg_color=210,9890e3,f6f3ff&title_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltttttttttttt&show_icons=true&theme=default&count_private=true&bg_color=30,f6f3ff,9890e3&title_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltttttttttttt&count_private=true&layout=compact&bg_color=210,9890e3,f6f3ff&title_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltttttttttttt&count_private=true&layout=compact&bg_color=30,f6f3ff,9890e3&title_color=000000)
 
