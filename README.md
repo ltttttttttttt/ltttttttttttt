@@ -7,3 +7,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltttttttttttt&theme=light_default&count_private=true&layout=compact&bg_color=30,eeeeee,cccccc&title_color=000000&text_color=000000)
 
+**最近文章**
+[![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=4248168660474269&limit=2)](https://juejin.cn/user/4248168660474269/posts)
