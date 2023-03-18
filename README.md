@@ -5,9 +5,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltttttttttttt&show_icons=true&theme=light_default&count_private=true&bg_color=30,eeeeee,cccccc&title_color=000000&text_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ltttttttttttt&theme=light_default&count_private=true&layout=compact&bg_color=30,eeeeee,cccccc&title_color=000000&text_color=000000)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ltttttttttttt&theme=light_default&count_private=true&layout=compact&bg_color=30,eeeeee,cccccc&title_color=000000&text_color=000000)
 
-<!--![Github奖杯🏆start](https://github-profile-trophy.vercel.app/?username=ltttttttttttt&theme=onedark)-->
+![Github奖杯🏆start](https://github-profile-trophy.vercel.app/?username=ltttttttttttt&theme=onedark)
 
 **最近文章**
 
