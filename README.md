@@ -20,4 +20,4 @@
 
 可以扫码请我喝瓶饮料或咖啡(如果对什么比较感兴趣可以在备注里写出来)
 
-​
+​<img src="resource/reward_code.webp">
