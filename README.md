@@ -14,10 +14,10 @@
 [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=4248168660474269&limit=1)](https://juejin.cn/user/4248168660474269/posts)
 
 
-对Kotlin或KMP感兴趣的同学可以进Q群 101786950
+对Kotlin或KMP感兴趣的同学可以进 **Q群 101786950**
 
-如果开源库对您有帮助的话
+**如果开源库对您有帮助的话**
 
-可以扫码请我喝瓶饮料或咖啡(如果对什么比较感兴趣可以在备注里写出来)
+可以**扫码**请我喝瓶饮料或咖啡(如果对什么比较感兴趣可以在备注里写出来)
 
 ​<img src="resource/reward_code.webp">
