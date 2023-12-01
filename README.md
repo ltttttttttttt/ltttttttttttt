@@ -12,3 +12,12 @@
 **最近文章**
 
 [![](https://github-readme-juejin-recent-article-flywith24.vercel.app/juejin?id=4248168660474269&limit=1)](https://juejin.cn/user/4248168660474269/posts)
+
+
+对Kotlin或KMP感兴趣的同学可以进Q群 101786950
+
+如果开源库对您有帮助的话
+
+可以扫码请我喝瓶饮料或咖啡(如果对什么比较感兴趣可以在备注里写出来)
+
+​
